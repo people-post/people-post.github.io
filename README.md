@@ -2,7 +2,7 @@
 A truly decentralized social media. People own their own data, connecting to peers without centralized server. 
 
 ## Roadmap
-- Decentralized node with simple social actions baed on texts and images. 
+- Decentralized node with simple social actions based on texts and images. 
 - Readonly app works offline to read news. 
 - Optional centralized data service for people without data safety concern. 
 
