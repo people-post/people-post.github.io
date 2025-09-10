@@ -1,5 +1,5 @@
 ## Our project
-A truly decentralized social media, people own their own data, connecting to peers without centralized server. 
+A truly decentralized social media. People own their own data, connecting to peers without centralized server. 
 
 ## Roadmap
 - Decentralized node with simple social actions baed on texts and images. 
