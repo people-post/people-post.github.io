@@ -46,5 +46,5 @@ First release coming out later 2025
 We are a small group of hobbyists who believe the online freedom of speech is essential.
 
 ## Join us
-- Discord: https://discord.gg/Ma8KrwS4zU
-- Github: https://github.com/people-post
+- Discord: [Join us](https://discord.gg/Ma8KrwS4zU)
+- Github: [Visit us](https://github.com/people-post)
