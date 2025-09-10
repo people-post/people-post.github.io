@@ -3,7 +3,7 @@ A truly decentralized social media. People own their own data, connecting to pee
 
 <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true, theme: 'dark' }); // Customize theme as needed
+  mermaid.initialize({ startOnLoad: true });
 </script>
 <pre class="mermaid">
 graph LR
