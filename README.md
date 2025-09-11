@@ -48,3 +48,4 @@ We are a small group of hobbyists who believe the online freedom of speech is es
 ## Join us
 - Discord: [Join us](https://discord.gg/Ma8KrwS4zU)
 - Github: [Visit us](https://github.com/people-post)
+- X: [Follow us](https://x.com/Brief495318)
