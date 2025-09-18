@@ -57,10 +57,10 @@ style SGU4 fill:#EEF,stroke:#DDF
 </pre>
 
 ## Roadmap
-- 2025-10: Decentralized node with simple social actions based on texts and images.
-- 2025-11: Readonly app works offline to read news.
-- 2025-12: Optional centralized data service for people without data safety concern.
-- 2026-01: Video clip support.
+- 2025-11: Decentralized node with simple social actions based on texts and images.
+- 2025-12: Readonly app works offline to read news.
+- 2026-01: Optional centralized data service for people without data safety concern.
+- 2026-02: Video clip support.
 
 ## Download
 First release coming out later 2025
