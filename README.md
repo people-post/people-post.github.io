@@ -60,6 +60,7 @@ style SGU4 fill:#EEF,stroke:#DDF
 - Decentralized node with simple social actions based on texts and images. 
 - Readonly app works offline to read news. 
 - Optional centralized data service for people without data safety concern. 
+- Video clip support
 
 ## Download
 First release coming out later 2025
