@@ -1,4 +1,4 @@
-## Our project
+## The project
 A truly decentralized social media. People own their own data, connecting to peers without centralized server. 
 
 <script type="module">
